@@ -55,20 +55,6 @@ Software-разработчик. Мобильная разработка (Flutte
 
 ---
 
-
-## 📊 GitHub Статистика
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andy2nn&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=andy2nn&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andy2nn&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-
 ## 📫 Связь со мной  
 <p align="left">
   <a href="https://www.github.com/andy2nn" target="_blank">
