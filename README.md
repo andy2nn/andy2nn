@@ -9,7 +9,7 @@ Software-разработчик. Мобильная разработка (Flutte
 
 ### 📍 Контактная информация  
 
-- 🖥️ **Портфолио:** [github.com/andy2nn](https://github.com/andy2nn)  
+- 🖥️ **Портфолио:** [github.com/andy2nn]([https://github.com/andy2nn](https://github.com/andy2nn?tab=repositories))  
 - ✉️ **Email:** [artdor19.01.06@gmail.com](mailto:artdor19.01.06@gmail.com)  
 - 🚀 **Текущий проект:** [MES Lite System](https://github.com/andy2nn/MES-Lite)  
 - 🧠 **Изучаю:** iOS Native (Swift), Flutter, Go, архитектуру приложений  
